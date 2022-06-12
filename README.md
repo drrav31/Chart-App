@@ -12,3 +12,9 @@ This opens a web page in your browser or else you can also open (http://localhos
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+## Screenshots
+
+The rendered charts are displayed as shown in the image below
+
+![Screenshot (18)](https://user-images.githubusercontent.com/47712868/173228253-70ac4ece-d914-4c34-9fc5-c033bdb994d7.png)
